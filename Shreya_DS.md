@@ -27,3 +27,8 @@ Gensim
 Levenshtein
 Fuzzywuzzy
 ```
+## Deep Learning
+```
+Basics of Neural Networks
+
+```
