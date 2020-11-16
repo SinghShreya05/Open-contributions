@@ -1,4 +1,4 @@
-##Machnine Learning
+## Machnine Learning
 Classification
 Regression
 Decision Trees
@@ -12,7 +12,7 @@ Bias-Variance
 Hyperparameter tuning
 Evalutation Metrics (precision, recall, F1, ROC Curve, AOC score, RMSE, MSE)
 
-##Natural Language Processing
+## Natural Language Processing
 Stemming
 Lemmatization
 Bag of words
