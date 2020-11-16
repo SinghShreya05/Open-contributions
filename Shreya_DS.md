@@ -1,4 +1,5 @@
 ## Machnine Learning
+```
 Classification
 Regression
 Decision Trees
@@ -11,8 +12,9 @@ Boosting ALgorithms : AdaBoost, GradientBoost, XGBoost
 Bias-Variance
 Hyperparameter tuning
 Evalutation Metrics (precision, recall, F1, ROC Curve, AOC score, RMSE, MSE)
-
+```
 ## Natural Language Processing
+```
 Stemming
 Lemmatization
 Bag of words
@@ -24,3 +26,4 @@ Word cloud
 Gensim
 Levenshtein
 Fuzzywuzzy
+```
