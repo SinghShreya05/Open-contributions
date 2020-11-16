@@ -8,7 +8,7 @@ Ensmeble Leaning Methods
 Clustering
 Dimensionality Redcution
 Support Vector Machines
-Boosting ALgorithms : AdaBoost, GradientBoost, XGBoost
+Boosting ALgorithms : (AdaBoost, GradientBoost, XGBoost)
 Bias-Variance
 Hyperparameter tuning
 Evalutation Metrics (precision, recall, F1, ROC Curve, AOC score, RMSE, MSE)
@@ -17,12 +17,14 @@ Evalutation Metrics (precision, recall, F1, ROC Curve, AOC score, RMSE, MSE)
 ```
 Stemming
 Lemmatization
+Regex
 Bag of words
+Eucledian distance
+Cosine Similarity
 Word2Vec
 Bert
 Vectorization / TF-IDF
-Spacy
-Word cloud
+Principal Component Analysis
 Gensim
 Levenshtein
 Fuzzywuzzy
